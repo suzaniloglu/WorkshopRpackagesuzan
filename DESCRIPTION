@@ -1,0 +1,10 @@
+Package: WorkshopRpackagesuzan
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: person(given = "Suzan",family = "Iloglu", role = c("aut", "cre"), email = "suzan.iloglu@example.edu",comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+Imports: sp
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
